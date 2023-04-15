@@ -28,3 +28,16 @@
 ### Week-3
 
 [Deploy End-to-End Machine learning pipelines](Build-Train-and-Deploy-ML-Pipelines-using-BERT/Week-3)
+
+
+## Optimize ML Models and Deploy Human-in-the-Loop Pipelines
+
+### Week-1
+
+[Advanced model training, tuning and evaluation](Optimize-ML-Models-and-Deploy-Human-in-the-loop-Pipelines/Week-1)
+
+### Week-2
+[Advanced model deployement and monitoring](Optimize-ML-Models-and-Deploy-Human-in-the-loop-Pipelines/Week-2)
+
+### Week-3
+[Data labeling and human-in-the-loop pipelines](Optimize-ML-Models-and-Deploy-Human-in-the-loop-Pipelines/Week-3)
